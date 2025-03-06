@@ -38,7 +38,9 @@ pip install pyfiglet termcolor pillow
 6. 💾 If selected, save the ASCII art as a `.txt` or `.png` file.
 
 ## 🖼 Screenshots
-(Add relevant screenshots here)
+### GUI Preview
+<img width="566" alt="Screenshot 2025-03-06 at 4 24 46 PM" src="https://github.com/user-attachments/assets/182ca5b8-59cf-4078-9584-22f0b2b42128" />
+
 
 ## 🔮 Future Improvements
 - ➕ Add more font and color options.
@@ -50,4 +52,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 - Naman Sethi
-  
+
